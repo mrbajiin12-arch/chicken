@@ -84,7 +84,7 @@ body{
 .box1{
   position: relative;
   margin-top: 1rem;
-  background-image: url('/IMAGES/maya.cup.jpeg');
+  background-image: url('IMAGES/maya.cup.jpeg');
   width: 100vw;
   height: 70vh;
   background-position: center;
