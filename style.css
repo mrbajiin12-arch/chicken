@@ -90,7 +90,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+
   
 }
 .texthero{
@@ -509,16 +509,20 @@ padding: 4px 10px;
   .btn1{
     display: none;
   }
+  .header{
+    width: 140vw;
+  }
   .bars{
 display: block;
 font-size: 30px;
+margin-left: -70px;
   }
   .btn2{
     display: none;
   }
  
   .box1{
-    width: 100vw;
+    width: 140vw;
   }
   .flexproject{
     display: grid;
@@ -561,5 +565,13 @@ font-size: 30px;
   .textarea{
     width: 300px;
   }
-
+.flex-footer{
+  display: flex;
+  flex-direction: column;
+  
+}
+.ul{
+  margin-left: 20px;
+  padding: 10px 10px;
+}
 }
